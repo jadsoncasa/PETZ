@@ -12,5 +12,6 @@
 Obs.: Foram encontrados dois erros na aplicação durante a criação dos scripts
 
 1 - A mensagem de campo obrigátorio do campo "Texto" na tela de atendimento inteligente está errada;
+
 2 - O sistema permite que o usuário insira valor negativo no campo quantidade de produto na tela nova-assinatura;
     obs.: Esse segundo testes é importante o usuário deixar a tela do browser máximizada durante a execução;
